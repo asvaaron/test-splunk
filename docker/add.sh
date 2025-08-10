@@ -1,0 +1,1 @@
+SPLUNK_PASSWORD=Developer123 docker-compose up -d
